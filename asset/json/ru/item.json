@@ -3,7 +3,7 @@
     "id": 0,
     "name": "Шприц Солдата",
     "description": "Increases attack speed.",
-    "detail": "Increases attack speed by 15% (+15% per stack).",
+    "detail": "Увеличивает скорость атаки на 15% (+15% за шт.).",
     "lore": "\"I ain't much for drugs... but hell, when fortune is knockin', ya gotta greet that door with a smile and a nod. Salud!\"\n\n-Signal echoes, UES Contact Light"
   },
   {
@@ -330,14 +330,14 @@
   },
   {
     "id": 103,
-    "name": "Squid Polyp",
+    "name": "Кальмаровый Полип",
     "description": "Activating an interactable summons a Squid Turret nearby.",
     "detail": "Activating an interactable summons a Squid Turret that attacks nearby enemies at 100% (+100% per stack) attack speed. Lasts 30 seconds.",
     "lore": "\"It’s disgusting.\"\n\n\"It’s only mildly disturbing. You’re overreacting.\"\n\n\"Well, when it turns on us, don’t come crying to me.\"\n\n\"It seems like it wants to only help us, so I’d rather have it close in case that dangerous looking group comes back around.\"\n\n\"I swear there’s more than one. It’s everywhere I look: the storage locker, the food dispenser, the cargo containers, everywhere!\"\n\n\"You’re exaggerating, it’s probably just following you. Snap out of it!\"\n\n\"Ow! Did you just smack me!?\"\n\n\"You were acting hysterical. I had to… hey, why is that thing looking at me now?\""
   },
   {
     "id": 104,
-    "name": "Death Mark",
+    "name": "Метка смерти",
     "description": "Enemies with 4 or more debuffs are marked for death, taking bonus damage.",
     "detail": "Enemies with 4 or more debuffs are marked for death, increasing damage taken by 50% (+50% per stack) from all sources for 7 seconds.",
     "lore": "Order: \"Death Mark\"\nTracking Number: 66******\nEstimated Delivery: 02\\22\\2056\\nShipping Method:  High Priority\nShipping Address: 421 Lane, Lab [72], Mars\nShipping Details:\n\nEveryone said that I was crazy to search for lost artifacts on Mars. Idiots. There hasn’t been any proof of a previous civilization - but I’ve always trusted my gut. This skull proves that I’m right - that something did exist here before.\n\nThat smug professor at the university... always disparaging my research. I loved seeing the look on his face as I shook his hand. Idiot. Karma must have been working overtime - I heard he fell ill shortly after. I suppose my success was just too much for him.\n\n...In fact, everyone I’ve shown seems to not be returning my calls. Are they avoiding me? Are they scared this news would shake up their academic communities? Too proud to admit I’m right?\n\nI’ll find someone who will give me the recognition I deserve. I’ve worked too hard and done too much. If I don’t keep going, I think I might just die."
@@ -351,7 +351,7 @@
   },
   {
     "id": 5,
-    "name": "Ceremonial Dagger",
+    "name": "Церемониальный Кинжал",
     "description": "Killing an enemy releases homing daggers.",
     "detail": "Killing an enemy fires out 3 homing daggers that deal 150% (+150% per stack) base damage.",
     "lore": "The smell of sulfur fills the air.\n\n\"Oh god, they're so close. They have Hitchcock. Oh god.\"\n\n\"Grab the - the dagger. From my backpack. Quick.\"\n\n\"I-I don't... I got it. What the hell? This isn't gonna work, Marion. What the hell am I supposed to do with this against those...? They blew him into pieces - oh god.\"\n\n\"You have to... you have to kill me - ah! Kill me. Kill me with it.\"\n\n\"What? What the hell?\"\n\n\"Yeah - it's the only way. Please.\"\n\n\"What are you saying? Stop!\"\n\n\"It's a magic dagger. It'll save us. She will save us. But you have to kill me with it.\"\n\n\"Please don't... please don't make me. Oh god.\"\n\n\"Y-you have to. I've seen how this works. It's the only way - they're coming so close. You have to use it on me. Kill me.\"\n\n\"I'm so sorry Marion. I'm so so sorry. I don't think-\"\n\n\"Do it. Do it now. DO IT NOW! DO IT NOW! DO IT-\""
