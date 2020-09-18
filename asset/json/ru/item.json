@@ -2,36 +2,36 @@
   {
     "id": 0,
     "name": "Шприц Солдата",
-    "description": "Increases attack speed.",
-    "detail": "Увеличивает скорость атаки на 15% (+15% за шт.).",
+    "description": "Увеличивает скорость атаки.",
+    "detail": "15% (+15% за штуку).",
     "lore": "\"I ain't much for drugs... but hell, when fortune is knockin', ya gotta greet that door with a smile and a nod. Salud!\"\n\n-Signal echoes, UES Contact Light"
   },
   {
     "id": 1,
     "name": "Тяжёлые Времена",
-    "description": "Chance to block incoming damage.",
-    "detail": "15% (+15% per stack) chance to block incoming damage. Unaffected by luck.",
+    "description": "Шанс блокировать входящий урон.",
+    "detail": "15% (+15% per stack) шанс блокировать входящий урон. Не зависит от удачи.",
     "lore": "//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//\n\n\"Why'd you sign up?\"\n\nWyatt's voice was bored. The mission to the Contact Light's last known location was taking longer than he expected.\n\nMalik was on the floor, cleaning her rifle. \"To get paid, mostly.\"\n\n\"And that's it?\"\n\nShe grunted in affirmation. She continued to wipe down the weapon.\n\n\"I'm here to find something.\" He continued. \"I shipped it a few years back, but I don't think it made it before the train went down. I'm guessing it's still in the Contact Light. So I'm gonna get it back.\"\n\nShe began to tighten the last remaining bolts. Her routine near completion, she moved her gaze to Wyatt. \"Seriously?\"\n\n\"Yep!\"\n\nMalik raised her brow. \"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\" She began to unfold her legs as she propped her rifle in the corner. \"And according to the distress beacon, the Contact Light was destroyed in orbit. Your shipment is probably floating around in space. It's all gone, Wyatt.\"\n\nHe grinned. \"I think I'm gonna find it.\"\n\n\"You're terrible.\""
   },
   {
     "id": 6,
     "name": "Зуб Монстра",
-    "description": "Drop a healing orb on kill.",
-    "detail": "Killing an enemy spawns a healing orb that heals for 8 (+8 per stack) health.",
+    "description": "Из убитых врагов выпадают сферы исцеления.",
+    "detail": "При уничтожении врага появляется сфера исцеления, востанавливающая 8(+8 8 за штуку) единиц здоровья.",
     "lore": null
   },
   {
     "id": 7,
     "name": "Очки Линзодела",
-    "description": "Chance to 'Critically Strike', dealing double damage.",
-    "detail": "Your attacks have a 10% (+10% per stack) chance to 'Critically Strike', dealing double damage.",
+    "description": "Шанс выполнить'Критический Удар', наносящий двойной урон.",
+    "detail": "У ваших атак есть шанс в 10% (+10% за штуку) на выполнение 'Критического Удара', наносящего двойной урон.",
     "lore": null
   },
   {
     "id": 8,
     "name": "Козлиное Копыто Пола",
-    "description": "Move faster.",
-    "detail": "Increases movement speed by 14% (+14% per stack).",
+    "description": "Двигайтесь быстрее.",
+    "detail": "Увеличивает скорость движения на 14% (+14% за штуку).",
     "lore": null
   },
   {
